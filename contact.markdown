@@ -43,7 +43,7 @@ Mon inbox est toujours ouverte pour discuter tech, design ou collaborations.
     justify-content: center;
     gap: 1.5rem;
     margin-top: 2.5rem;
-    flex-wrap: wrap; /* Pour que ça passe sur mobile */
+    flex-wrap: wrap;
 }
 
 .btn-contact {
@@ -53,7 +53,7 @@ Mon inbox est toujours ouverte pour discuter tech, design ou collaborations.
     color: #d3ab82;
     text-decoration: none;
     font-weight: bold;
-    border-radius: 50px; /* Boutons arrondis */
+    border-radius: 50px;
     transition: all 0.3s ease;
     background: transparent;
 }
